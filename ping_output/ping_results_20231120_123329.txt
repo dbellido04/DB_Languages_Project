@@ -1,0 +1,15 @@
+PING 173.255.195.185 (173.255.195.185) 56(84) bytes of data.
+64 bytes from 173.255.195.185: icmp_seq=1 ttl=54 time=43.3 ms
+64 bytes from 173.255.195.185: icmp_seq=2 ttl=54 time=43.0 ms
+64 bytes from 173.255.195.185: icmp_seq=3 ttl=54 time=42.8 ms
+64 bytes from 173.255.195.185: icmp_seq=4 ttl=54 time=45.5 ms
+64 bytes from 173.255.195.185: icmp_seq=5 ttl=54 time=41.9 ms
+64 bytes from 173.255.195.185: icmp_seq=6 ttl=54 time=43.9 ms
+64 bytes from 173.255.195.185: icmp_seq=7 ttl=54 time=50.6 ms
+64 bytes from 173.255.195.185: icmp_seq=8 ttl=54 time=42.4 ms
+64 bytes from 173.255.195.185: icmp_seq=9 ttl=54 time=43.4 ms
+64 bytes from 173.255.195.185: icmp_seq=10 ttl=54 time=44.0 ms
+
+--- 173.255.195.185 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9019ms
+rtt min/avg/max/mdev = 41.894/44.079/50.591/2.364 ms
